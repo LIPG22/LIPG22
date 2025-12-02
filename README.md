@@ -26,4 +26,10 @@ Soy un desarrollador apasionado por la lógica de negocio y la arquitectura de s
 ---
 
 ### 📊 Mis Estadísticas
-![Estadísticas de LIPG22](https://github-readme-stats.vercel.app/api?username=LIPG22&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LIPG22&theme=radical&hide_border=true" alt="LIPG22 Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIPG22&layout=compact&theme=radical&hide_border=true" alt="LIPG22 Top Langs" />
+</p>
