@@ -5,12 +5,11 @@ Soy un desarrollador apasionado por la lógica de negocio y la arquitectura de s
 
 - 🔭 Actualmente trabajando en: 
   - **Java-OOP-Fundamentals:** Una colección exhaustiva de implementaciones de POO.
-  - **CuentaBancaria:** Simulación de lógica transaccional y gestión de estados financieros.
+  - **Sistema de Inventario:** Aplicación de escritorio robusta desarrollada en Java (Swing) aplicando principios de POO y JDBC.
 - 🌱 Aprendiendo: 
   - **Certificación Java SE 8 Programmer I (1Z0-808):** Preparación intensiva en tipos de datos, operadores y POO.
   - **Oracle Database Foundations (1Z0-006):** Diseño de bases de datos relacionales y SQL estándar.
   - **Inglés:** Certificación en progreso (Sábados).
-- 💬 Pregúntame sobre: Java, POO, SQL y desarrollo web.
 - 📫 Contáctame: liamgtz440za@outlook.com
 
 ---
