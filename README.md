@@ -26,5 +26,5 @@ Soy un desarrollador apasionado por la lógica de negocio y la arquitectura de s
 
 ### 📊 Mis Estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIPG22&layout=compact&theme=dracula&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIPG22&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="400" />
 </div>
